@@ -14,7 +14,7 @@
 	<packaging>jar</packaging>
 
 	<name>spring-boot-starter-swagger2</name>
-	<url></url>
+	<url>https://github.com/vindell/spring-boot-starter-swagger2</url>
 	<description>starter for swagger2</description>
 
 	<licenses>
